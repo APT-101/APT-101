@@ -107,9 +107,3 @@ print(me)
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=APT-101&color=0aff0a&style=for-the-badge&label=PROFILE+SCANS"/>
-
-</div>
