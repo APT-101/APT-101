@@ -3,7 +3,13 @@
 <!-- Header ASCII Art -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=APT-101&fontSize=80&fontColor=0aff0a&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%2B%20Security%20%7C%20Penetration%20Testing&descSize=18&descColor=535353"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=0AFF0A&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E7%94%9F%E6%B4%BB%E6%98%AF%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E9%82%A3%E4%B9%88%EF%BC%8C%E6%98%AF%E8%B0%81%E5%AE%9A%E4%B9%89%E4%BA%86%E4%BD%A0%E7%9A%84%E5%A5%96%E5%8A%B1%E5%87%BD%E6%95%B0%EF%BC%9F;Think+deep.+Hack+smart.+Stay+sharp.%3E%3E%3EH4CK+TH3+PI4N%3C%3C%3C)](https://git.io/typing-svg)
+<h3>
+<code>如果生活是强化学习，那么，是谁定义了你的奖励函数？</code>
+<br/><br/>
+<code>Think deep. Hack smart. Stay sharp.</code>
+<br/><br/>
+<code>》》》H4CK TH3 PI4N《《《</code>
+</h3>
 
 </div>
 
