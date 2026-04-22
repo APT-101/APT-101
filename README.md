@@ -110,21 +110,6 @@ print(me)
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════╗
- ║                                                          ║
- ║   "The quieter you become, the more you are able to     ║
- ║    hear."                                                ║
- ║                                                          ║
- ║   ┌─────────────────────────────────────────────────┐   ║
- ║   │  > scp ~/.secrets/root@target:~/.hidden/        │   ║
- ║   │  > echo "Stay curious. Stay dangerous." >> /etc/motd │   ║
- ║   │  > _                                             │   ║
- ║   └─────────────────────────────────────────────────┘   ║
- ║                                                          ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
 <img src="https://komarev.com/ghpvc/?username=APT-101&color=0aff0a&style=for-the-badge&label=PROFILE+SCANS"/>
 
 </div>
