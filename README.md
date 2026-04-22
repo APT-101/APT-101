@@ -3,7 +3,7 @@
 <!-- Header ASCII Art -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=APT-101&fontSize=80&fontColor=0aff0a&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%2B%20Security%20%7C%20Penetration%20Testing&descSize=18&descColor=535353"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0AFF0A&vCenter=true&width=600&lines=%E6%AD%A3%E5%9C%A8%E6%89%AB%E6%8F%8F%E7%9B%AE%E6%A0%87...;AI-Driven+Pentest+%7C+Automated+Security+Assessment;Think+deep.+Hack+smart.+Stay+sharp.;%E4%BA%A7%E5%93%81%E5%AE%89%E5%85%A8+%C2%B7+%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95+%C2%B7+%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94+%C2%B7+AI%E5%AE%89%E5%85%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=0AFF0A&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E7%94%9F%E6%B4%BB%E6%98%AF%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E9%82%A3%E4%B9%88%EF%BC%8C%E6%98%AF%E8%B0%81%E5%AE%9A%E4%B9%89%E4%BA%86%E4%BD%A0%E7%9A%84%E5%A5%96%E5%8A%B1%E5%87%BD%E6%95%B0%EF%BC%9F;Think+deep.+Hack+smart.+Stay+sharp.%3E%3E%3EH4CK+TH3+PI4N%3C%3C%3C)](https://git.io/typing-svg)
 
 </div>
 
@@ -68,36 +68,6 @@ print(me)
 
 <div align="center">
 
-### 🛡️ SECURITY TOOLKIT
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   ██████╗ ██████╗ ███╗   ██╗███████╗    ███████╗███████╗██████╗ │
-│  ██╔════╝██╔═══██╗████╗  ██║██╔════╝    ██╔════╝██╔════╝██╔══██╗│
-│  ██║     ██║   ██║██╔██╗ ██║█████╗      ███████╗█████╗  ██████╔╝│
-│  ██║     ██║   ██║██║╚██╗██║██╔══╝      ╚════██║██╔══╝  ██╔══██╗│
-│  ╚██████╗╚██████╔╝██║ ╚████║███████╗    ███████║███████╗██║  ██║│
-│   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝    ╚══════╝╚══════╝╚═╝  ╚═╝│
-│                                                                 │
-│    ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐      │
-│    │ Offense  │  │ Defense  │  │   AI     │  │Automate  │      │
-│    ├──────────┤  ├──────────┤  ├──────────┤  ├──────────┤      │
-│    │ Burp     │  │ SIEM     │  │ Claude   │  │ Python   │      │
-│    │ Nmap     │  │ EDR/XDR  │  │ GPT-4   │  │ Nuclei   │      │
-│    │ CS/Sliver│  │ Suricata │  │ LangChain│  │ Scapy    │      │
-│    │ MSF      │  │ Zeek     │  │ Agents   │  │ CI/CD    │      │
-│    └──────────┘  └──────────┘  └──────────┘  └──────────┘      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
 ### 📊 THREAT LANDSCAPE
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=APT-101&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=0aff0a&icon_color=0aff0a&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
@@ -152,6 +122,3 @@ print(me)
 <img src="https://komarev.com/ghpvc/?username=APT-101&color=0aff0a&style=for-the-badge&label=PROFILE+SCANS"/>
 
 </div>
-
-<!-- Hidden snake animation -->
-![Snake animation](https://raw.githubusercontent.com/apt-101/apt-101/output/github-snake-dark.svg)
