@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header ASCII Art -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=APT-101&fontSize=80&fontColor=0aff0a&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%2B%20Security%20%7C%20Penetration%20Testing&descSize=18&descColor=535353"/>
+<img width="100%" src="https://www.wallpaperflare.com/static/293/566/455/lost-evangeline-lilly-tv-movie-wallpaper.jpg&height=220&section=header&text=APT-101&fontSize=80&fontColor=0aff0a&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%2B%20Security%20%7C%20Penetration%20Testing&descSize=18&descColor=535353"/>
 
 <h3>
 <code>如果生活是强化学习，那么，是谁定义了你的奖励函数？</code>
