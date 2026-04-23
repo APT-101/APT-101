@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header ASCII Art -->
-<img width="100%" src="https://www.wallpaperflare.com/static/293/566/455/lost-evangeline-lilly-tv-movie-wallpaper.jpg&height=220&section=header&text=APT-101&fontSize=80&fontColor=0aff0a&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%2B%20Security%20%7C%20Penetration%20Testing&descSize=18&descColor=535353"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=APT-101&fontSize=80&fontColor=0aff0a&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%2B%20Security%20%7C%20Penetration%20Testing&descSize=18&descColor=535353"/>
+
+<img width="100%" src="assets/banner.jpg" alt="Background" style="border-radius: 12px; margin-top: 8px;"/>
 
 <h3>
 <code>如果生活是强化学习，那么，是谁定义了你的奖励函数？</code>
@@ -14,6 +16,8 @@
 </div>
 
 ---
+
+### 👤 WHOAMI
 
 ```python
 #!/usr/bin/env python3
@@ -43,67 +47,47 @@ print(me)
 
 ---
 
-<div align="center">
+### 🛡️ SKILL MATRIX
 
-### ⚡ SKILL MATRIX
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<!-- Security Skills -->
-<img src="https://img.shields.io/badge/Penetration_Testing-0AFF0A?style=for-the-badge&logo=terminal&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Incident_Response-FF6600?style=for-the-badge&logo=firstaid&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Threat_Hunting-00AAFF?style=for-the-badge&logo=search&logoColor=white&labelColor=0d1117"/>
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=nuclei&logoColor=white)
 
-<br/>
-
-<!-- AI + Security -->
-<img src="https://img.shields.io/badge/AI_Security-9945FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LLM_Pentest-FF00FF?style=for-the-badge&logo=brain&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Security_Automation-00FFAA?style=for-the-badge&logo=robot&logoColor=black&labelColor=0d1117"/>
-
-<br/>
-
-<!-- Tech Stack -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117"/>
-
-</div>
+![Claude](https://img.shields.io/badge/Claude-191970?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
-
-<div align="center">
 
 ### 📊 THREAT LANDSCAPE
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=APT-101&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=0aff0a&icon_color=0aff0a&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=apt-101&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=0aff0a&icon_color=0aff0a&text_color=535353" alt="Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=apt-101&theme=github-dark-blue&hide_border=true&background=0a0a0a&ring=0aff0a&fire=0aff0a&currStreakLabel=0aff0a&sideLabels=535353&dates=535353" alt="Streak" width="49%"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=APT-101&theme=github-dark-blue&background=0d1117&stroke=30363d&ring=0aff0a&fire=0aff0a&currStreakLabel=0aff0a&sideLabels=c9d1d9&dates=555555"/>
+---
 
-</div>
+### 🌐 CONNECT WITH ME
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=APT-101&theme=github-compact&bg_color=0d1117&color=0aff0a&line=0aff0a&point=00ff88&area=true&hide_border=true"/>
-
-</div>
+[![WeChat](https://img.shields.io/badge/WeChat-APT--101-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://mp.weixin.qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-APT--101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![抖音](https://img.shields.io/badge/抖音-Cybersec-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://douyin.com)
+[![小红书](https://img.shields.io/badge/小红书-Cybersec-FE2C55?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xiaohongshu.com)
 
 ---
 
 <div align="center">
-
-### 🔗 CONNECT WITH ME
-
-<a href="https://mp.weixin.qq.com/">
-  <img src="https://img.shields.io/badge/WeChat-APT--101-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://www.douyin.com/">
-  <img src="https://img.shields.io/badge/Douyin-Cybersec-010101?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://www.xiaohongshu.com/">
-  <img src="https://img.shields.io/badge/小红书-Cybersec-FE2C55?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=apt-101&color=0aff0a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
----
+<div align="center">
+<i>"The quieter you become, the more you are able to hear."</i>
+</div>
